@@ -1,4 +1,5 @@
-# Vaishnavi-mangore-
+
+# Vaishnavi 3
 Assignment 3
 
 a=int(input("enter first number:"))
