@@ -2,7 +2,7 @@
 # Vaishnavi 3
 Assignment 3
 
-a=int(input("enter first number:"))
+int(input("enter first number:"))
 b=int(input("enter second number:"))
 c=int(input("enter third number:"))                                           
 
